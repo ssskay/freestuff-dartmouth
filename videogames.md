@@ -1,0 +1,10 @@
+---
+layout: blog
+title: videogames
+---
+ # Video Games @ Dartmouth!
+  ---
+    
+                    **Description**: Rent a video game console and a game for an extra fun social with friends!
+                    If you're looking for a new game for your own device, why not try it out first by renting it for a week? 
+                    With over 100 options to choose from, you're bound to find a new game you enjoy!
