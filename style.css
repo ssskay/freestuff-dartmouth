@@ -17,13 +17,12 @@ h1 {
     padding:10px;
 }
 
-h4{
+.h4{
     margin:auto;
     color: black;
     font-size: 50px;
     padding: 10px;
     background-color: rgba(45, 45, 45, 0.1);
-    
 }
 
 .reccBar{
@@ -37,8 +36,8 @@ button{
 }
 .larger_img{
     margin: 10px;
-    width: 500px;
-    height: 500px;
+    width: 25%;
+    height: 25%;
 }
 #searchbar{
     right: 0;
@@ -313,18 +312,18 @@ a{
 }
 /* visited link */
 a:visited {
-  color: white;
+  color: green;
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color: white;
+  color: #05b302;
   text-decoration: none;
 }
 
 /* selected link */
 a:active {
-  color: white;
+  color: #05b302;
   text-decoration: none;
 }
