@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: videogames
+title: Video Games
 ---
 {:.h4}
   Free Video Game Rentals
